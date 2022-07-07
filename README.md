@@ -4,13 +4,13 @@
 
 Instructors: Justin Travis, Greta Bocedi, Cristina Rueda Uribe and Tamsin Woodman (University of Aberdeen)
 
-This workshop will cover use of both the Windows RangeShifter (v2.0.2) GUI and the RangeShiftR (v1.0.3) R package.
+This workshop will cover use of both the Windows RangeShifter (v2.0.5) GUI and the RangeShiftR (v1.0.3) R package.
 
 ## Workshop requirements
 
 Participants should bring a laptop with R installed. RangeShiftR requires R 3.6.0 or higher and Rcpp 1.01 or higher. Devtools is recommended for an easy installation. If you have time prior to the workshop please install the RangeShiftR package following the instructions on the [RangeShiftR GitHub](https://rangeshifter.github.io/RangeshiftR-tutorials/installing.html), otherwise there will be time during the workshop to install the package.
 
-The RangeShifter GUI is only available on Windows laptops and the executable can be downloaded [here](https://github.com/RangeShifter/RangeShifter-software-and-documentation/releases/tag/v2.0.2).
+The RangeShifter GUI is only available on Windows laptops and the executable can be downloaded [here](https://github.com/RangeShifter/RangeShifter-software-and-documentation).
 
 ## Workshop schedule
 
