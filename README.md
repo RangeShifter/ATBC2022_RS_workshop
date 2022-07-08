@@ -19,11 +19,11 @@ The RangeShifter GUI is only available on Windows laptops and the executable can
 * 8:00 - 8:30: Round of introductions
 * 8:30 - 9:30: RangeShifter introduction (Greta Bocedi)
 * 9:30 - 9:45: coffee break
-* 9:45 - 12:00: Package installation and RangeShifter Exercise 1
+* 9:45 - 12:00: Package installation and RangeShifter Tutorial 1 (download data [here](https://github.com/RangeShifter/RangeShifter-software-and-documentation); R: find instructions [here](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_1.html#1_Simulating_range_expansions))  
 * 12:00 - 13:00: Lunch
 * 13:00 - 14:00: Dispersal talk (Justin Travis)
-* 14:00 - 15:00: RangeShifter Exercise 2
-* 15:00 - 16:00: Lynx tutorial
+* 14:00 - 15:00: RangeShifter Tutorial 2 (R: find instructions [here](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_2.html))
+* 15:00 - 16:00: Lynx reintroduction tutorial (only in R, find instructions [here](https://github.com/RangeShifter/IBS2022_RS_workshop/blob/main/code/Prac2_RangeShiftR_Lynx.R))
 * 16:00 - 17:00: Group discussions
 
 ### Day 2
