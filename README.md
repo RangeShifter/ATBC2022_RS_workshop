@@ -27,7 +27,23 @@ The RangeShifter GUI is only available on Windows laptops and the executable can
 * 16:00 - 17:00: Group discussions
 
 ### Day 2
+
 * 8:00 - 8:15: Introduction to day 2
 * 8:15 - 9:30: Group discussions
-* 9:30 - 10
+* 9:30 - 10:00: coffee break
+* 10:00 - 11:00: Additional RangeShifter tutorials, choice of evolution of dispersal or dynamic landscapes (R: [evolution of dispersal instructions](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_4.html) and [dynamic landscapes instructions](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_3.html)
+* 11:00 - 12:00: Group work on environmental layers
+* 12:00 - 13:00: lunch
+* 13:00 - 14:00: Group work on demography and dispersal
+* 14:00 - 14:15: coffee break
+* 14:15 - 16:00: Group presentations and wrap-up
+
+## Additional resources
+
+* Manual:
+    * [RangeShifter manual - English](https://tinyurl.com/RangeShifter-ManuelEN)
+    * [RangeShifter manual - Spanish](https://tinyurl.com/RangeShifter-ManualEsp)
+* Practicals:
+    * [RangeShiftR tutorials](https://rangeshifter.github.io/RangeshiftR-tutorials/)
+    * [Teaching material](https://damariszurell.github.io/EEC-QCB/) on RangeShiftR case studies
 
