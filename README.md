@@ -23,8 +23,10 @@ The RangeShifter GUI is only available on Windows laptops and the executable can
 * 12:00 - 13:00: Lunch
 * 13:00 - 14:00: Dispersal talk (Justin Travis)
 * 14:00 - 15:00: RangeShifter Tutorial 2 (R: find instructions [here](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_2.html))
-* 15:00 - 16:00: Lynx reintroduction tutorial (only in R, find instructions [here](https://github.com/RangeShifter/IBS2022_RS_workshop/blob/main/code/Prac2_RangeShiftR_Lynx.R))
+* 15:00 - 15:15: coffee break
+* 15:15 - 16:00: Lynx reintroduction tutorial (only in R, find instructions [here](https://github.com/RangeShifter/IBS2022_RS_workshop/blob/main/code/Prac2_RangeShiftR_Lynx.R))
 * 16:00 - 17:00: Group discussions
+* 19:00: Dinner (location TBC)
 
 ### Day 2
 
