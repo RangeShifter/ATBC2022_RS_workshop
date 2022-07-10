@@ -22,16 +22,13 @@ The RangeShifter GUI is only available on Windows laptops and the executable can
 * 10:00 - 10:30: coffee break
 * 10:30 - 13:00: Package installation and RangeShifter Tutorial 1 continued
 * 13:00 - 14:00: Lunch
-* 14:00 - 15:00: Dispersal talk (Justin Travis)
-* 15:00 - 16:00: RangeShifter Tutorial 2 (R: find instructions [here](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_2.html)); Lynx reintroduction tutorial (only in R, find instructions [here](https://github.com/RangeShifter/IBS2022_RS_workshop/blob/main/code/Prac2_RangeShiftR_Lynx.R))
-* 16:00 - 16:30: coffee break
-* 16:30 - 17:00: Group discussions
+* 14:00 - 16:00: RangeShifter Tutorial 2 (R: find instructions [here](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_2.html)); Lynx reintroduction tutorial (only in R, find instructions [here](https://github.com/RangeShifter/IBS2022_RS_workshop/blob/main/code/Prac2_RangeShiftR_Lynx.R))
+* 16:00 - 17:00: coffee break
 * 19:00: Dinner (location TBC)
 
 ### Day 2
 
-* 8:00 - 8:15: Introduction to day 2
-* 8:15 - 9:30: Group discussions
+* 8:15 - 9:30: Dispersal talk (Justin Travis)
 * 9:30 - 10:00: Additional RangeShifter tutorials, choice of evolution of dispersal or dynamic landscapes (R: [evolution of dispersal instructions](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_4.html) and [dynamic landscapes instructions](https://rangeshifter.github.io/RangeshiftR-tutorials/tutorial_3.html)
 * 10:00 - 10:30: coffee break
 * 10:30 - 11:00: Additional RangeShifter tutorials continued
